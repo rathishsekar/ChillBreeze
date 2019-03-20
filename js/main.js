@@ -1,3 +1,5 @@
+
+var navBarUrl = "/ChillBreeze/navbar.html"
 $(document).ready(function() {
     "use strict";
 
